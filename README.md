@@ -56,15 +56,6 @@ This project implements the AMBA APB (Advanced Peripheral Bus) protocol, a low-p
 
 ---
 
-## ▶️ Simulation
-
-### Compile & Run (ModelSim / Questa)
-```bash
-vlog apb_master.v apb_slave.v apb_top.v tb.sv
-vsim tb
-run -all
-
----
 
 ## 🧠 Learning Outcomes
 Understanding of AMBA APB protocol
@@ -72,11 +63,15 @@ FSM-based RTL design
 SystemVerilog testbench development
 Basic verification methodologies
 
-👨‍💻 Author
+---
 
+##👨‍💻 Author
+-
 Harsh Pandey
 Electronics and Communication Engineering (ECE)
 VLSI | RTL Design | Verification
+
+---
 
 
 
